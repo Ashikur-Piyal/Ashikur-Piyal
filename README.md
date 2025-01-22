@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashikur-Piyal
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning nodeJS
+- 🌱 I’m currently learning reactJS
 - 💞️ I’m looking to collaborate on any project which will be done in html css and js
 - 📫 How to reach me piyal8642@gmail.com
 - 😄 Pronouns: ...
